@@ -1,0 +1,6 @@
+[submodule "https:/github.com/jrodrv01/submodules.git"]
+	path = https:/github.com/jrodrv01/submodules.git
+	url = https://github.com/jrodrv01/pepetron.git
+[submodule "/home/harkonnen/pepetron/RFID_Reader/libraries"]
+	path = /home/harkonnen/pepetron/RFID_Reader/libraries
+	url = https://github.com/jrodrv01/submodules.git
